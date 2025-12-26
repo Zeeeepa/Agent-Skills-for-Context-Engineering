@@ -70,7 +70,7 @@ Install skills by referencing this repository or by copying skill folders into y
 
 ### For Cursor & Codex & Open Code
 
-Copy skill content into `.rules` or create project-specific SKills folders. The skills provide the context and guidelines that agent needs for effective context engineering and agent design.
+Copy skill content into `.rules` or create project-specific Skills folders. The skills provide the context and guidelines that agent needs for effective context engineering and agent design.
 
 ### For Custom Implementations
 
